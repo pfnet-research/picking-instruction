@@ -56,10 +56,9 @@ $ jq -r '.' dataset/en.train.jsonl | head -30
 ## Citation:
 * [English] Jun Hator, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, Yuta Tsuboi, Yuya Unno, Wilson Ko, Jethro Tan. 
 Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions, 
-_Proceedings of International Conference on Robotics and Automation ([ICRA2018](https://icra2018.org/))_, 2018.
-[paper content on arxiv](https://arxiv.org/abs/1710.06280) 
+_Proceedings of International Conference on Robotics and Automation ([ICRA2018](https://icra2018.org/))_, 2018. ICRA Best Paper Award on Human-Robot Interaction (HRI), [project page](https://pfnet.github.io/interactive-robot/), [paper content on arxiv](https://arxiv.org/abs/1710.06280) 
 (The first 6 authors are contributed equally and ordered alphabetically.)
-* [Japanese] 羽鳥 潤, 菊池 悠太, 小林 颯介, 高橋 城志, 坪井 祐太, 海野 裕也, Wilson Ko, Jethro Tan. 実世界におけるインタラクティブな物体指示, _言語処理学会第21回年次大会([NLP2018](http://www.anlp.jp/nlp2018/))_, 2018.
+* [Japanese] 羽鳥 潤, 菊池 悠太, 小林 颯介, 高橋 城志, 坪井 祐太, 海野 裕也, Wilson Ko, Jethro Tan. [実世界におけるインタラクティブな物体指示](http://anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C5-1.pdf), _言語処理学会第21回年次大会([NLP2018](http://www.anlp.jp/nlp2018/))_, 2018.
 (最初の6人は全員筆頭著者であり貢献度に差はない)
 
 ## Statistics
