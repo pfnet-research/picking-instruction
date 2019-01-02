@@ -54,7 +54,7 @@ $ jq -r '.' dataset/en.train.jsonl | head -30
 ```
 
 ## Citation:
-* [English] Jun Hator, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, Yuta Tsuboi, Yuya Unno, Wilson Ko, Jethro Tan. 
+* [English] Jun Hatori, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, Yuta Tsuboi, Yuya Unno, Wilson Ko, Jethro Tan. 
 Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions, 
 _Proceedings of International Conference on Robotics and Automation ([ICRA2018](https://icra2018.org/))_, 2018. ICRA Best Paper Award on Human-Robot Interaction (HRI), [project page](https://pfnet.github.io/interactive-robot/), [paper content on arxiv](https://arxiv.org/abs/1710.06280) 
 (The first 6 authors are contributed equally and ordered alphabetically.)
