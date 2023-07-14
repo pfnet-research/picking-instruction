@@ -1,7 +1,7 @@
 # PFN Picking Instructions for Commodities Dataset (PFN-PIC)
 This dataset is a collection of spoken language instructions for a robotic system to pick and place common objects. Text instructions and corresponding object images are provided.
 
-[Download (dataset-main.zip)](https://preferredjp.box.com/v/pfn-pic-dataset-main)
+[Download (dataset-main.zip)]([https://preferredjp.box.com/v/pfn-pic-dataset-main](https://figshare.com/articles/figure/PFN_Picking_Instructions_for_Commodities_Dataset_PFN-PIC_/23675100))
 
 We consider a situation where the robot is instructed by the operator to pick up a specific object and move it to another location: for example, _Move the blue and white tissue box to the top right bin_.
 
